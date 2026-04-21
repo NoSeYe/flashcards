@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../PPOP/Radiomics_HN_analysis"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../scan1"
+		}
+	],
+	"settings": {}
+}

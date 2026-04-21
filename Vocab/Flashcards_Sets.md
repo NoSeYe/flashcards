@@ -1440,3 +1440,120 @@
 | **overseas**<br>Level: B2<br>Group: adv., adj. | **ต่างประเทศ**<br>Example: Travel overseas. |
 
 
+## Flashcards Set - Page 9
+
+| Front (Word, Level, Group) | Back (Thai Meaning & Example) |
+| --- | --- |
+| **habit**<br>Level: B1<br>Group: n. | **นิสัย**<br>Example: He has a habit of biting his nails. |
+| **handle**<br>Level: B2<br>Group: v. | **จัดการ, หยิบจับ**<br>Example: Please handle the glass carefully. |
+| **hardly**<br>Level: B1<br>Group: adv. | **แทบจะไม่**<br>Example: I could hardly hear him over the noise. |
+| **harmful**<br>Level: B2<br>Group: adj. | **เป็นอันตราย**<br>Example: Smoking is harmful to your health. |
+| **headline**<br>Level: B1<br>Group: n. | **พาดหัวข่าว**<br>Example: The scandal was in every headline. |
+| **healthy**<br>Level: A1<br>Group: adj. | **สุขภาพดี**<br>Example: She eats a very healthy diet. |
+| **hesitate**<br>Level: B2<br>Group: v. | **ลังเล**<br>Example: She hesitated for a moment before answering. |
+| **highlight**<br>Level: B1<br>Group: v. | **เน้นย้ำ**<br>Example: The report highlights the need for reform. |
+| **hire**<br>Level: B2<br>Group: v. | **จ้างงาน**<br>Example: They decided to hire a new manager. |
+| **hollow**<br>Level: B2<br>Group: adj. | **กลวง**<br>Example: The tree trunk was hollow inside. |
+| **honest**<br>Level: B1<br>Group: adj. | **ซื่อสัตย์**<br>Example: I need your honest opinion. |
+| **household**<br>Level: B2<br>Group: n. | **ครัวเรือน**<br>Example: The average household has two cars. |
+| **however**<br>Level: A1<br>Group: adv. | **อย่างไรก็ตาม**<br>Example: He was tired; however, he kept working. |
+| **huge**<br>Level: A2<br>Group: adj. | **ใหญ่โต**<br>Example: They live in a huge house. |
+| **humor**<br>Level: B2<br>Group: n. | **ความตลก**<br>Example: He has a great sense of humor. |
+| **jealous**<br>Level: B1<br>Group: adj. | **อิจฉา**<br>Example: She was jealous of her friend's success. |
+| **jewellery**<br>Level: A2<br>Group: n. | **เครื่องประดับ**<br>Example: She wears a lot of gold jewellery. |
+| **join**<br>Level: A1<br>Group: v. | **เข้าร่วม**<br>Example: Would you like to join our club? |
+| **joint**<br>Level: B2<br>Group: adj. | **ร่วมกัน**<br>Example: They made a joint decision to sell. |
+| **journalist**<br>Level: B1<br>Group: n. | **นักข่าว**<br>Example: The journalist interviewed the president. |
+| **journey**<br>Level: A2<br>Group: n. | **การเดินทาง**<br>Example: The journey took ten hours by train. |
+| **judge**<br>Level: B1<br>Group: v. | **ตัดสิน**<br>Example: Don't judge a book by its cover. |
+| **judgment**<br>Level: B2<br>Group: n. | **การตัดสิน**<br>Example: He showed good judgment in the crisis. |
+| **justice**<br>Level: B2<br>Group: n. | **ความยุติธรรม**<br>Example: They are fighting for social justice. |
+| **justify**<br>Level: B2<br>Group: v. | **ให้เหตุผลประกอบ**<br>Example: How can you justify such a high price? |
+| **keen**<br>Level: B1<br>Group: adj. | **กระตือรือร้น**<br>Example: He is a keen photographer. |
+| **keyboard**<br>Level: A2<br>Group: n. | **คีย์บอร์ด**<br>Example: I need a new keyboard for my laptop. |
+| **kick**<br>Level: A2<br>Group: v. | **เตะ**<br>Example: He kicked the ball into the goal. |
+| **kill**<br>Level: A2<br>Group: v. | **ฆ่า**<br>Example: The frost killed the young plants. |
+| **kindness**<br>Level: B1<br>Group: n. | **ความเมตตา**<br>Example: I'll never forget your kindness. |
+| **kitchen**<br>Level: A1<br>Group: n. | **ห้องครัว**<br>Example: The kitchen is at the back of the house. |
+| **knee**<br>Level: A2<br>Group: n. | **เข่า**<br>Example: He fell and hurt his knee. |
+| **knock**<br>Level: A2<br>Group: v. | **เคาะ**<br>Example: Someone is knocking at the door. |
+| **knowledge**<br>Level: A2<br>Group: n. | **ความรู้**<br>Example: He has a vast knowledge of history. |
+| **knot**<br>Level: B2<br>Group: n. | **ปม**<br>Example: Tie a knot in the end of the rope. |
+| **label**<br>Level: B1<br>Group: n. | **ฉลาก**<br>Example: Read the label before you wash it. |
+| **lack**<br>Level: B1<br>Group: n. | **การขาดแคลน**<br>Example: There is a lack of clean water. |
+| **landscape**<br>Level: B2<br>Group: n. | **ทิวทัศน์**<br>Example: The desert landscape was beautiful. |
+| **language**<br>Level: A1<br>Group: n. | **ภาษา**<br>Example: English is a global language. |
+| **lately**<br>Level: B1<br>Group: adv. | **เมื่อเร็วๆ นี้**<br>Example: I haven't seen much of him lately. |
+| **launch**<br>Level: B2<br>Group: v. | **เริ่มดำเนินการ, เปิดตัว**<br>Example: The company will launch a new product. |
+| **lawyer**<br>Level: A2<br>Group: n. | **ทนายความ**<br>Example: You should talk to a lawyer. |
+| **leadership**<br>Level: B2<br>Group: n. | **ความเป็นผู้นำ**<br>Example: The team needs strong leadership. |
+| **lean**<br>Level: B2<br>Group: v. | **พิง**<br>Example: Don't lean against the wet paint. |
+| **leather**<br>Level: B1<br>Group: n. | **หนัง**<br>Example: He wore a black leather jacket. |
+| **lecture**<br>Level: B1<br>Group: n. | **การบรรยาย**<br>Example: I have a history lecture at 10 AM. |
+| **legal**<br>Level: B1<br>Group: adj. | **ถูกกฎหมาย**<br>Example: Is it legal to park here? |
+| **likely**<br>Level: A2<br>Group: adj. | **เป็นไปได้**<br>Example: It is likely to rain this afternoon. |
+| **limit**<br>Level: B1<br>Group: n. | **ขีดจำกัด**<br>Example: There is a speed limit of 50 mph. |
+| **literature**<br>Level: B1<br>Group: n. | **วรรณกรรม**<br>Example: She is studying English literature. |
+| **local**<br>Level: A1<br>Group: adj. | **ท้องถิ่น**<br>Example: We buy our bread at the local bakery. |
+| **loose**<br>Level: B2<br>Group: adj. | **หลวม**<br>Example: One of my buttons is loose. |
+| **loyal**<br>Level: B2<br>Group: adj. | **ซื่อสัตย์, จงรักภักดี**<br>Example: He is a loyal friend. |
+| **luggage**<br>Level: A2<br>Group: n. | **กระเป๋าเดินทาง**<br>Example: We left our luggage at the hotel. |
+| **lung**<br>Level: B2<br>Group: n. | **ปอด**<br>Example: Smoking damages your lungs. |
+
+
+## Flashcards Set - Page 10
+
+| Front (Word, Level, Group) | Back (Thai Meaning & Example) |
+| --- | --- |
+| **analyse**<br>Level: B2<br>Group: v. | **วิเคราะห์**<br>Example: The data was used to analyse the results. |
+| **approach**<br>Level: B2<br>Group: n., v. | **แนวทาง, เข้าหา**<br>Example: We need a new approach to the problem. |
+| **area**<br>Level: A1<br>Group: n. | **พื้นที่, แขนง**<br>Example: This is a key area of research. |
+| **assess**<br>Level: B2<br>Group: v. | **ประเมิน**<br>Example: Students are assessed on their performance. |
+| **assume**<br>Level: B2<br>Group: v. | **สันนิษฐาน, ทึกทัก**<br>Example: It is often assumed that the project will succeed. |
+| **authority**<br>Level: B2<br>Group: n. | **อำนาจ, เจ้าหน้าที่**<br>Example: The government is the highest authority. |
+| **available**<br>Level: A2<br>Group: adj. | **ที่มีอยู่**<br>Example: Further information is available on request. |
+| **benefit**<br>Level: A2<br>Group: n., v. | **ผลประโยชน์**<br>Example: There are many benefits to exercise. |
+| **concept**<br>Level: B2<br>Group: n. | **แนวคิด**<br>Example: The concept of gravity is fundamental. |
+| **consistent**<br>Level: B2<br>Group: adj. | **สม่ำเสมอ**<br>Example: The results are consistent with previous studies. |
+| **constitutional**<br>Level: C1<br>Group: adj. | **ตามรัฐธรรมนูญ**<br>Example: The right to free speech is constitutional. |
+| **context**<br>Level: B2<br>Group: n. | **บริบท**<br>Example: Word meanings often depend on context. |
+| **create**<br>Level: A1<br>Group: v. | **สร้าง**<br>Example: The software allows users to create reports. |
+| **data**<br>Level: A2<br>Group: n. | **ข้อมูล**<br>Example: Data was collected over a six-month period. |
+| **definition**<br>Level: B1<br>Group: n. | **นิยาม**<br>Example: The dictionary provides a clear definition. |
+| **derived**<br>Level: B2<br>Group: adj. | **ได้รับมาจาก**<br>Example: The theory is derived from observation. |
+| **distribution**<br>Level: B2<br>Group: n. | **การกระจาย**<br>Example: The distribution of wealth is unequal. |
+| **economic**<br>Level: B1<br>Group: adj. | **ทางเศรษฐกิจ**<br>Example: The country is facing economic challenges. |
+| **environment**<br>Level: A2<br>Group: n. | **สิ่งแวดล้อม**<br>Example: We must protect the environment. |
+| **established**<br>Level: B2<br>Group: adj. | **ที่มั่นคง, ที่ก่อตั้งแล้ว**<br>Example: An established tradition in the school. |
+| **estimate**<br>Level: B2<br>Group: n., v. | **ประมาณการ**<br>Example: The estimate for the cost is high. |
+| **evident**<br>Level: B2<br>Group: adj. | **ที่เห็นได้ชัด**<br>Example: It is evident that the policy failed. |
+| **export**<br>Level: B1<br>Group: v., n. | **ส่งออก**<br>Example: The company exports its products globally. |
+| **factors**<br>Level: B2<br>Group: n. pl. | **ปัจจัย**<br>Example: Several factors contributed to the result. |
+| **financial**<br>Level: B1<br>Group: adj. | **ทางการเงิน**<br>Example: They need financial assistance. |
+| **formula**<br>Level: B2<br>Group: n. | **สูตร**<br>Example: A mathematical formula. |
+| **function**<br>Level: B1<br>Group: n., v. | **หน้าที่, การทำงาน**<br>Example: What is the function of this machine? |
+| **identified**<br>Level: B2<br>Group: adj. | **ที่ระบุแล้ว**<br>Example: The main issues have been identified. |
+| **income**<br>Level: B2<br>Group: n. | **รายได้**<br>Example: Low-income families need support. |
+| **indicate**<br>Level: B2<br>Group: v. | **บ่งชี้**<br>Example: The survey results indicate a trend. |
+| **individual**<br>Level: B1<br>Group: adj., n. | **บุคคล**<br>Example: Every individual has rights. |
+| **interpretation**<br>Level: B2<br>Group: n. | **การตีความ**<br>Example: A different interpretation of the text. |
+| **involved**<br>Level: B1<br>Group: adj. | **ที่เกี่ยวข้อง**<br>Example: The people involved in the accident. |
+| **issue**<br>Level: B1<br>Group: n., v. | **ประเด็น, ปัญหา**<br>Example: Climate change is a global issue. |
+| **labour**<br>Level: B2<br>Group: n. | **แรงงาน**<br>Example: Manual labour is still common. |
+| **legal**<br>Level: B1<br>Group: adj. | **ถูกกฎหมาย**<br>Example: The legal system is complex. |
+| **legislation**<br>Level: C1<br>Group: n. | **กฎหมาย, ร่างกฎหมาย**<br>Example: New legislation was introduced last year. |
+| **major**<br>Level: A2<br>Group: adj. | **สำคัญ, หลัก**<br>Example: A major breakthrough in science. |
+| **method**<br>Level: B1<br>Group: n. | **วิธีการ**<br>Example: A traditional method of teaching. |
+| **occur**<br>Level: B2<br>Group: v. | **เกิดขึ้น**<br>Example: Earthquakes occur frequently in Japan. |
+| **percent**<br>Level: A2<br>Group: n. | **เปอร์เซ็นต์**<br>Example: Ten percent of the population. |
+| **period**<br>Level: A2<br>Group: n. | **ระยะเวลา**<br>Example: A period of rapid change. |
+| **policy**<br>Level: B1<br>Group: n. | **นโยบาย**<br>Example: The school has a strict attendance policy. |
+| **principle**<br>Level: B2<br>Group: n. | **หลักการ**<br>Example: The principles of democracy. |
+| **procedure**<br>Level: B2<br>Group: n. | **ขั้นตอน**<br>Example: A standard operating procedure. |
+| **process**<br>Level: B1<br>Group: n., v. | **กระบวนการ**<br>Example: A long and difficult process. |
+| **required**<br>Level: B1<br>Group: adj. | **ที่จำเป็น, ที่ต้องการ**<br>Example: Action is required to solve the problem. |
+| **research**<br>Level: A2<br>Group: n., v. | **การวิจัย**<br>Example: Scientific research is essential. |
+| **response**<br>Level: B1<br>Group: n. | **การตอบสนอง**<br>Example: The response to the plan was positive. |
+| **role**<br>Level: B1<br>Group: n. | **บทบาท**<br>Example: He has a key role in the team. |
+
+
