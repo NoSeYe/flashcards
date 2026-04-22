@@ -28,15 +28,15 @@
     "example": "Will you be able to come to the party?"
   },
   {
-    "word": "about prep.,",
-    "pos": "adv.",
+    "word": "about",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "above prep.,",
-    "pos": "adv.",
+    "word": "above",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -84,8 +84,8 @@
     "example": "Is this price acceptable to you?"
   },
   {
-    "word": "access n.,",
-    "pos": "v.",
+    "word": "access",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -161,8 +161,8 @@
     "example": ""
   },
   {
-    "word": "across prep.,",
-    "pos": "adv.",
+    "word": "across",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -266,6 +266,13 @@
     "example": ""
   },
   {
+    "word": "adj. A1 ,",
+    "pos": "v.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "administration",
     "pos": "n.",
     "level": "B1",
@@ -301,8 +308,8 @@
     "example": ""
   },
   {
-    "word": "advance n., v.,",
-    "pos": "adj.",
+    "word": "advance",
+    "pos": "n., v., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -441,6 +448,13 @@
     "example": "He works for a travel agency."
   },
   {
+    "word": "agenda",
+    "pos": "n.",
+    "level": "B2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "agent",
     "pos": "n.",
     "level": "B1",
@@ -490,15 +504,15 @@
     "example": "Go straight ahead for two blocks."
   },
   {
-    "word": "aid n.,",
-    "pos": "v.",
+    "word": "aid",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "aim v.,",
-    "pos": "n.",
+    "word": "aim",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -567,9 +581,16 @@
     "example": "The doctors kept him alive on a machine."
   },
   {
-    "word": "all det.,",
-    "pos": "pron.",
+    "word": "all",
+    "pos": "det., pron.",
     "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "all right",
+    "pos": "adj./adv.",
+    "level": "A2",
     "thai": "",
     "example": ""
   },
@@ -588,8 +609,15 @@
     "example": "The project is almost finished."
   },
   {
-    "word": "along prep.,",
-    "pos": "adv.",
+    "word": "alone",
+    "pos": "adj./adv.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "along",
+    "pos": "prep., adv.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -784,8 +812,15 @@
     "example": "The company holds an annual meeting in July."
   },
   {
-    "word": "answer n.,",
-    "pos": "v.",
+    "word": "another",
+    "pos": "det./pron.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "answer",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -798,8 +833,8 @@
     "example": "She is anxious about her exams."
   },
   {
-    "word": "any det.,",
-    "pos": "pron.",
+    "word": "any",
+    "pos": "det., pron.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -840,8 +875,8 @@
     "example": "It's raining, but I'm going anyway."
   },
   {
-    "word": "anywhere adv.,",
-    "pos": "pron.",
+    "word": "anywhere",
+    "pos": "adv., pron.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -852,6 +887,13 @@
     "level": "B1",
     "thai": "แยกกัน, ห่างกัน",
     "example": "The two houses are about 500 meters apart."
+  },
+  {
+    "word": "apartment",
+    "pos": "n.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "apologize",
@@ -882,8 +924,8 @@
     "example": "Apparently, the meeting has been canceled."
   },
   {
-    "word": "appeal n.,",
-    "pos": "v.",
+    "word": "appeal",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -938,8 +980,8 @@
     "example": "I really appreciate your help."
   },
   {
-    "word": "approach n.,",
-    "pos": "v.",
+    "word": "approach",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -1050,8 +1092,8 @@
     "example": "He joined the army after high school."
   },
   {
-    "word": "around prep.,",
-    "pos": "adv.",
+    "word": "around",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -1071,8 +1113,8 @@
     "example": "The travel arrangements have been made."
   },
   {
-    "word": "arrest v.,",
-    "pos": "n.",
+    "word": "arrest",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -1197,8 +1239,8 @@
     "example": "The nurse will assist the doctor during surgery."
   },
   {
-    "word": "assistant n.,",
-    "pos": "adj.",
+    "word": "assistant",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -1260,15 +1302,15 @@
     "example": "Please attach a photo to your application."
   },
   {
-    "word": "attack n.,",
-    "pos": "v.",
+    "word": "attack",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "attempt n.,",
-    "pos": "v.",
+    "word": "attempt",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -1286,6 +1328,13 @@
     "level": "A2",
     "thai": "ความสนใจ",
     "example": "Please pay attention to the teacher."
+  },
+  {
+    "word": "attitude",
+    "pos": "n.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "attorney",
@@ -1372,8 +1421,8 @@
     "example": "Further information is available on request."
   },
   {
-    "word": "average adj.,",
-    "pos": "n.",
+    "word": "average",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -1428,8 +1477,8 @@
     "example": "The baby is sleeping."
   },
   {
-    "word": "back n.,",
-    "pos": "adv.",
+    "word": "back",
+    "pos": "n., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -1484,8 +1533,8 @@
     "example": "I'm going to bake a cake."
   },
   {
-    "word": "balance n.,",
-    "pos": "v.",
+    "word": "balance",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -1498,8 +1547,8 @@
     "example": "He threw the ball to his dog."
   },
   {
-    "word": "ban v.,",
-    "pos": "n.",
+    "word": "ban",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -1547,8 +1596,8 @@
     "example": "Language can be a barrier to communication."
   },
   {
-    "word": "base n.,",
-    "pos": "v.",
+    "word": "base",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -1624,8 +1673,8 @@
     "example": "The soldiers fought a long battle."
   },
   {
-    "word": "be v.,",
-    "pos": "auxiliary v.",
+    "word": "be",
+    "pos": "v., auxiliary v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -1645,18 +1694,18 @@
     "example": "I like green beans."
   },
   {
-    "word": "bear (deal with)",
-    "pos": "v.",
-    "level": "B2",
-    "thai": "อดทน, ทนต่อ",
-    "example": "I can't bear the heat."
-  },
-  {
     "word": "bear (animal)",
     "pos": "n.",
     "level": "A2",
     "thai": "หมี",
     "example": "We saw a bear in the woods."
+  },
+  {
+    "word": "bear (deal with)",
+    "pos": "v.",
+    "level": "B2",
+    "thai": "อดทน, ทนต่อ",
+    "example": "I can't bear the heat."
   },
   {
     "word": "beat",
@@ -1757,8 +1806,8 @@
     "example": "His behavior was very strange."
   },
   {
-    "word": "behind prep.,",
-    "pos": "adv.",
+    "word": "behind",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -1799,8 +1848,8 @@
     "example": "This book belongs to me."
   },
   {
-    "word": "below adv.,",
-    "pos": "prep.",
+    "word": "below",
+    "pos": "adv., prep.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -1813,8 +1862,8 @@
     "example": "He tightened his belt."
   },
   {
-    "word": "bend v.,",
-    "pos": "n.",
+    "word": "bend",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -1841,8 +1890,8 @@
     "example": "This is the best pizza I've ever eaten."
   },
   {
-    "word": "bet v.,",
-    "pos": "n.",
+    "word": "bet",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -1862,8 +1911,8 @@
     "example": "The house is between the park and the school."
   },
   {
-    "word": "beyond prep.,",
-    "pos": "adv.",
+    "word": "beyond",
+    "pos": "prep., adv.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -1939,8 +1988,8 @@
     "example": "Wait a bit."
   },
   {
-    "word": "bite v.,",
-    "pos": "n.",
+    "word": "bite",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -1953,22 +2002,22 @@
     "example": "The coffee was very bitter."
   },
   {
-    "word": "black adj.,",
-    "pos": "n.",
+    "word": "black",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "blame v.,",
-    "pos": "n.",
+    "word": "blame",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "blank adj.,",
-    "pos": "n.",
+    "word": "blank",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -2016,8 +2065,8 @@
     "example": "The wind is blowing hard."
   },
   {
-    "word": "blue adj.,",
-    "pos": "n.",
+    "word": "blue",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -2051,8 +2100,8 @@
     "example": "Boil the water before adding the pasta."
   },
   {
-    "word": "bomb n.,",
-    "pos": "v.",
+    "word": "bomb",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -2128,6 +2177,13 @@
     "example": "My boss is very demanding."
   },
   {
+    "word": "both",
+    "pos": "det./pron.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "bother",
     "pos": "v.",
     "level": "B1",
@@ -2142,8 +2198,8 @@
     "example": "A bottle of water."
   },
   {
-    "word": "bottom n.,",
-    "pos": "adj.",
+    "word": "bottom",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -2191,6 +2247,13 @@
     "example": "A branch of a tree."
   },
   {
+    "word": "brand",
+    "pos": "n., v.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "brave",
     "pos": "adj.",
     "level": "B1",
@@ -2205,8 +2268,8 @@
     "example": "I eat bread for breakfast."
   },
   {
-    "word": "break v.,",
-    "pos": "n.",
+    "word": "break",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -2296,8 +2359,8 @@
     "example": "A broad smile."
   },
   {
-    "word": "broadcast v.,",
-    "pos": "n.",
+    "word": "broadcast",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -2317,15 +2380,15 @@
     "example": "I have two brothers."
   },
   {
-    "word": "brown adj.,",
-    "pos": "n.",
+    "word": "brown",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "brush v.,",
-    "pos": "n.",
+    "word": "brush",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -2492,15 +2555,15 @@
     "example": "We need to calculate the cost."
   },
   {
-    "word": "call v.,",
-    "pos": "n.",
+    "word": "call",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "calm adj., v.,",
-    "pos": "n.",
+    "word": "calm",
+    "pos": "adj., v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -2513,15 +2576,15 @@
     "example": "I took some photos with my new camera."
   },
   {
-    "word": "camp n.,",
-    "pos": "v.",
+    "word": "camp",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "campaign n.,",
-    "pos": "v.",
+    "word": "campaign",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -2611,8 +2674,8 @@
     "example": "The stadium has a capacity of 50,000."
   },
   {
-    "word": "capital n.,",
-    "pos": "adj.",
+    "word": "capital",
+    "pos": "n., adj.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -2625,8 +2688,8 @@
     "example": "The captain of the ship."
   },
   {
-    "word": "capture v.,",
-    "pos": "n.",
+    "word": "capture",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -2646,8 +2709,8 @@
     "example": "A credit card."
   },
   {
-    "word": "care n.,",
-    "pos": "v.",
+    "word": "care",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -2672,6 +2735,13 @@
     "level": "A2",
     "thai": "อย่างระมัดระวัง",
     "example": "Read the instructions carefully."
+  },
+  {
+    "word": "careless",
+    "pos": "adj.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "carpet",
@@ -2716,8 +2786,8 @@
     "example": "I don't have any cash on me."
   },
   {
-    "word": "cast n.,",
-    "pos": "v.",
+    "word": "cast",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -2744,8 +2814,8 @@
     "example": "The books are divided into categories."
   },
   {
-    "word": "cause n.,",
-    "pos": "v.",
+    "word": "cause",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -2884,8 +2954,8 @@
     "example": "Is there a chance of rain?"
   },
   {
-    "word": "change v.,",
-    "pos": "n.",
+    "word": "change",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -2912,15 +2982,15 @@
     "example": "The main character."
   },
   {
-    "word": "characteristic n.,",
-    "pos": "adj.",
+    "word": "characteristic",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "charge n.,",
-    "pos": "v.",
+    "word": "charge",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -2940,8 +3010,8 @@
     "example": "A weather chart."
   },
   {
-    "word": "chat v.,",
-    "pos": "n.",
+    "word": "chat",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -2954,8 +3024,8 @@
     "example": "It's cheap."
   },
   {
-    "word": "cheat v.,",
-    "pos": "n.",
+    "word": "cheat",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -2989,8 +3059,8 @@
     "example": "He is a famous chef."
   },
   {
-    "word": "chemical adj.,",
-    "pos": "n.",
+    "word": "chemical",
+    "pos": "adj., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -3017,8 +3087,8 @@
     "example": "I eat chicken."
   },
   {
-    "word": "chief adj.,",
-    "pos": "n.",
+    "word": "chief",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3080,8 +3150,8 @@
     "example": "Don't smoke cigarettes."
   },
   {
-    "word": "circle n.,",
-    "pos": "v.",
+    "word": "circle",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -3122,8 +3192,8 @@
     "example": "Civil rights."
   },
   {
-    "word": "claim v.,",
-    "pos": "n.",
+    "word": "claim",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -3136,8 +3206,8 @@
     "example": "Go to class."
   },
   {
-    "word": "classic adj.,",
-    "pos": "n.",
+    "word": "classic",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3157,8 +3227,15 @@
     "example": "In the classroom."
   },
   {
-    "word": "clean adj.,",
-    "pos": "v.",
+    "word": "clause",
+    "pos": "n.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "clean",
+    "pos": "adj., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -3192,8 +3269,8 @@
     "example": "He is clever."
   },
   {
-    "word": "click v.,",
-    "pos": "n.",
+    "word": "click",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -3353,15 +3430,15 @@
     "example": "A gold coin."
   },
   {
-    "word": "cold adj.,",
-    "pos": "n.",
+    "word": "cold",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "collapse v.,",
-    "pos": "n.",
+    "word": "collapse",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3444,8 +3521,8 @@
     "example": "A comedy movie."
   },
   {
-    "word": "comfort n.,",
-    "pos": "v.",
+    "word": "comfort",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3458,8 +3535,8 @@
     "example": "A comfortable chair."
   },
   {
-    "word": "command n.,",
-    "pos": "v.",
+    "word": "command",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3472,15 +3549,15 @@
     "example": "No comment."
   },
   {
-    "word": "commercial adj.,",
-    "pos": "n.",
+    "word": "commercial",
+    "pos": "adj., n.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "commission n.,",
-    "pos": "v.",
+    "word": "commission",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3605,8 +3682,8 @@
     "example": "Make a complaint."
   },
   {
-    "word": "complete adj.,",
-    "pos": "v.",
+    "word": "complete",
+    "pos": "adj., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -3654,8 +3731,8 @@
     "example": "The concept of gravity is fundamental."
   },
   {
-    "word": "concern n.,",
-    "pos": "v.",
+    "word": "concern",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3696,8 +3773,8 @@
     "example": "The car is in excellent condition."
   },
   {
-    "word": "conduct v.,",
-    "pos": "n.",
+    "word": "conduct",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3731,8 +3808,8 @@
     "example": "Please confirm your reservation."
   },
   {
-    "word": "conflict n.,",
-    "pos": "v.",
+    "word": "conflict",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3801,8 +3878,8 @@
     "example": ""
   },
   {
-    "word": "conservative adj.,",
-    "pos": "n.",
+    "word": "conservative",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3878,8 +3955,8 @@
     "example": "Consumer rights are protected by law."
   },
   {
-    "word": "contact n.,",
-    "pos": "v.",
+    "word": "contact",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -3913,8 +3990,8 @@
     "example": ""
   },
   {
-    "word": "contest n.,",
-    "pos": "v.",
+    "word": "contest",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -3948,15 +4025,15 @@
     "example": "The continuous rain caused a flood."
   },
   {
-    "word": "contract n.,",
-    "pos": "v.",
+    "word": "contract",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "contrast n.,",
-    "pos": "v.",
+    "word": "contrast",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -3976,8 +4053,8 @@
     "example": "She made a significant contribution to the research."
   },
   {
-    "word": "control n.,",
-    "pos": "v.",
+    "word": "control",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -4046,15 +4123,15 @@
     "example": "The weather is cool today."
   },
   {
-    "word": "copy n.,",
-    "pos": "v.",
+    "word": "copy",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "core n.,",
-    "pos": "adj.",
+    "word": "core",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4081,8 +4158,8 @@
     "example": "The corporate headquarters are in New York."
   },
   {
-    "word": "correct adj.,",
-    "pos": "v.",
+    "word": "correct",
+    "pos": "adj., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -4095,8 +4172,8 @@
     "example": "Did I spell your name correctly?"
   },
   {
-    "word": "cost n.,",
-    "pos": "v.",
+    "word": "cost",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -4114,6 +4191,13 @@
     "level": "B1",
     "thai": "ฝ้าย",
     "example": "This shirt is made of cotton."
+  },
+  {
+    "word": "could",
+    "pos": "modal v.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "council",
@@ -4207,8 +4291,8 @@
     "example": "The cow is eating grass."
   },
   {
-    "word": "crash n.,",
-    "pos": "v.",
+    "word": "crash",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4333,8 +4417,8 @@
     "example": "The rice crop was destroyed by the flood."
   },
   {
-    "word": "cross v.,",
-    "pos": "n.",
+    "word": "cross",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -4403,8 +4487,8 @@
     "example": "Put the plates in the cupboard."
   },
   {
-    "word": "cure v.,",
-    "pos": "n.",
+    "word": "cure",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4445,8 +4529,8 @@
     "example": "Close the curtains."
   },
   {
-    "word": "curve n.,",
-    "pos": "v.",
+    "word": "curve",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4480,8 +4564,8 @@
     "example": "I cut my finger."
   },
   {
-    "word": "cycle n.,",
-    "pos": "v.",
+    "word": "cycle",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -4501,15 +4585,15 @@
     "example": "I read the daily newspaper."
   },
   {
-    "word": "damage n.,",
-    "pos": "v.",
+    "word": "damage",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "dance n.,",
-    "pos": "v.",
+    "word": "dance",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -4599,8 +4683,15 @@
     "example": "Dear John,"
   },
   {
-    "word": "debate n.,",
-    "pos": "v.",
+    "word": "death",
+    "pos": "n.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "debate",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4655,8 +4746,8 @@
     "example": "The war was declared."
   },
   {
-    "word": "decline v.,",
-    "pos": "n.",
+    "word": "decline",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4676,8 +4767,8 @@
     "example": "The Christmas decorations were beautiful."
   },
   {
-    "word": "decrease v.,",
-    "pos": "n.",
+    "word": "decrease",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4697,8 +4788,8 @@
     "example": "I'm deeply sorry."
   },
   {
-    "word": "defeat v.,",
-    "pos": "n.",
+    "word": "defeat",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4753,8 +4844,8 @@
     "example": "He has a degree in law."
   },
   {
-    "word": "delay v.,",
-    "pos": "n.",
+    "word": "delay",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4795,8 +4886,8 @@
     "example": "I'm waiting for a delivery."
   },
   {
-    "word": "demand n.,",
-    "pos": "v.",
+    "word": "demand",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -4893,8 +4984,8 @@
     "example": "You deserve a rest."
   },
   {
-    "word": "design n.,",
-    "pos": "v.",
+    "word": "design",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -4907,8 +4998,8 @@
     "example": "A fashion designer."
   },
   {
-    "word": "desire n.,",
-    "pos": "v.",
+    "word": "desire",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -5080,6 +5171,13 @@
     "level": "A1",
     "thai": "ที่แตกต่างกัน",
     "example": "We are different."
+  },
+  {
+    "word": "differently",
+    "pos": "adv.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "difficult",
@@ -5271,8 +5369,8 @@
     "example": "A hard disk."
   },
   {
-    "word": "dislike v.,",
-    "pos": "n.",
+    "word": "dislike",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -5285,8 +5383,8 @@
     "example": "Dismiss the case."
   },
   {
-    "word": "display v.,",
-    "pos": "n.",
+    "word": "display",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -5341,8 +5439,8 @@
     "example": "He is divorced."
   },
   {
-    "word": "do1 v.,",
-    "pos": "auxiliary v.",
+    "word": "do1",
+    "pos": "v., auxiliary v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -5411,29 +5509,29 @@
     "example": "Open the door."
   },
   {
-    "word": "double adj., det., pron.,",
-    "pos": "v.",
+    "word": "double",
+    "pos": "adj., det., pron., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "doubt n.,",
-    "pos": "v.",
+    "word": "doubt",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "down adv.,",
-    "pos": "prep.",
+    "word": "down",
+    "pos": "adv., prep.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "download v.,",
-    "pos": "n.",
+    "word": "download",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -5446,29 +5544,29 @@
     "example": "Go downstairs."
   },
   {
-    "word": "downtown adv., n.,",
-    "pos": "adj.",
+    "word": "downtown",
+    "pos": "adv., n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "downward adj.,",
-    "pos": "adv.",
+    "word": "downward",
+    "pos": "adj., adv.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "dozen n.,",
-    "pos": "det.",
+    "word": "dozen",
+    "pos": "n., det.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "draft n.,",
-    "pos": "v.",
+    "word": "draft",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -5509,15 +5607,15 @@
     "example": "A line drawing."
   },
   {
-    "word": "dream n.,",
-    "pos": "v.",
+    "word": "dream",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "dress n.,",
-    "pos": "v.",
+    "word": "dress",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -5530,8 +5628,8 @@
     "example": "Get dressed."
   },
   {
-    "word": "drink n.,",
-    "pos": "v.",
+    "word": "drink",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -5572,8 +5670,8 @@
     "example": "He was drunk."
   },
   {
-    "word": "dry adj.,",
-    "pos": "v.",
+    "word": "dry",
+    "pos": "adj., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -5614,6 +5712,13 @@
     "example": "Watch a DVD."
   },
   {
+    "word": "each",
+    "pos": "det./pron./adv.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "ear",
     "pos": "n.",
     "level": "A1",
@@ -5621,8 +5726,8 @@
     "example": "The human ear."
   },
   {
-    "word": "early adj.,",
-    "pos": "adv.",
+    "word": "early",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -5656,8 +5761,8 @@
     "example": "I can easily do it."
   },
   {
-    "word": "east n., adj.,",
-    "pos": "adv.",
+    "word": "east",
+    "pos": "n., adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -5817,8 +5922,8 @@
     "example": "Eighty dollars."
   },
   {
-    "word": "either det./pron.,",
-    "pos": "adv.",
+    "word": "either",
+    "pos": "det./pron., adv.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -5915,8 +6020,8 @@
     "example": "Go elsewhere."
   },
   {
-    "word": "email n.,",
-    "pos": "v.",
+    "word": "email",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -6020,15 +6125,22 @@
     "example": "Enable the feature."
   },
   {
-    "word": "encounter v.,",
-    "pos": "n.",
+    "word": "encounter",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "end n.,",
+    "word": "encourage",
     "pos": "v.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "end",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -6111,8 +6223,8 @@
     "example": "An enormous house."
   },
   {
-    "word": "enough det., pron.,",
-    "pos": "adv.",
+    "word": "enough",
+    "pos": "det., pron., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -6209,8 +6321,8 @@
     "example": "The next episode."
   },
   {
-    "word": "equal adj.,",
-    "pos": "v.",
+    "word": "equal",
+    "pos": "adj., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -6237,8 +6349,8 @@
     "example": "A human error."
   },
   {
-    "word": "escape v.,",
-    "pos": "n.",
+    "word": "escape",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -6279,8 +6391,8 @@
     "example": "A housing estate."
   },
   {
-    "word": "estimate v.,",
-    "pos": "n.",
+    "word": "estimate",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -6391,8 +6503,8 @@
     "example": "The evidence of the crime."
   },
   {
-    "word": "evil adj.,",
-    "pos": "n.",
+    "word": "evil",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -6454,8 +6566,8 @@
     "example": "Everyone except me."
   },
   {
-    "word": "exchange n.,",
-    "pos": "v.",
+    "word": "exchange",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -6482,30 +6594,37 @@
     "example": "An exciting movie."
   },
   {
-    "word": "excuse n.,",
-    "pos": "v.",
+    "word": "excuse",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "executive n.,",
-    "pos": "adj.",
+    "word": "executive",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "exercise n.,",
-    "pos": "v.",
+    "word": "exercise",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "exhibit v.,",
-    "pos": "n.",
+    "word": "exhibit",
+    "pos": "v., n.",
     "level": "B2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "exhibition",
+    "pos": "n.",
+    "level": "B1",
     "thai": "",
     "example": ""
   },
@@ -6594,8 +6713,8 @@
     "example": "A scientific experiment."
   },
   {
-    "word": "expert n.,",
-    "pos": "adj.",
+    "word": "expert",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -6643,8 +6762,8 @@
     "example": "A large explosion."
   },
   {
-    "word": "export n.,",
-    "pos": "v.",
+    "word": "export",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -6797,8 +6916,8 @@
     "example": "Have faith in God."
   },
   {
-    "word": "fall v.,",
-    "pos": "n.",
+    "word": "fall",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -6818,8 +6937,8 @@
     "example": "A familiar face."
   },
   {
-    "word": "family n.,",
-    "pos": "adj.",
+    "word": "family",
+    "pos": "n., adj.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -6902,8 +7021,8 @@
     "example": "Fashionable clothes."
   },
   {
-    "word": "fast adj.,",
-    "pos": "adv.",
+    "word": "fast",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -6944,8 +7063,8 @@
     "example": "In favor of something."
   },
   {
-    "word": "favorite adj.,",
-    "pos": "n.",
+    "word": "favorite",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -6993,6 +7112,13 @@
     "example": "School fees."
   },
   {
+    "word": "feed",
+    "pos": "v.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "feedback",
     "pos": "n.",
     "level": "B2",
@@ -7021,8 +7147,8 @@
     "example": "A fellow student."
   },
   {
-    "word": "female adj.,",
-    "pos": "n.",
+    "word": "female",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -7049,8 +7175,8 @@
     "example": "Have a fever."
   },
   {
-    "word": "few det./adj.,",
-    "pos": "pron.",
+    "word": "few",
+    "pos": "det./adj., pron.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -7091,8 +7217,8 @@
     "example": "Fifty dollars."
   },
   {
-    "word": "fight v.,",
-    "pos": "n.",
+    "word": "fight",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -7126,8 +7252,8 @@
     "example": "Fill in the form."
   },
   {
-    "word": "film n.,",
-    "pos": "v.",
+    "word": "film",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -7147,8 +7273,8 @@
     "example": "Finally, I'm finished."
   },
   {
-    "word": "finance n.,",
-    "pos": "v.",
+    "word": "finance",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -7210,8 +7336,8 @@
     "example": "A law firm."
   },
   {
-    "word": "first det./number,",
-    "pos": "adv.",
+    "word": "first",
+    "pos": "det./number, adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -7231,8 +7357,8 @@
     "example": "Go fishing."
   },
   {
-    "word": "fit v.,",
-    "pos": "adj.",
+    "word": "fit",
+    "pos": "v., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -7280,8 +7406,8 @@
     "example": "Bright flames."
   },
   {
-    "word": "flash n.,",
-    "pos": "v.",
+    "word": "flash",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -7315,8 +7441,8 @@
     "example": "Wood floats on water."
   },
   {
-    "word": "flood n.,",
-    "pos": "v.",
+    "word": "flood",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -7336,8 +7462,8 @@
     "example": "Buy some flour."
   },
   {
-    "word": "flow v.,",
-    "pos": "n.",
+    "word": "flow",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -7364,15 +7490,15 @@
     "example": "Birds can fly."
   },
   {
-    "word": "flying n.,",
-    "pos": "adj.",
+    "word": "flying",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "focus v.,",
-    "pos": "n.",
+    "word": "focus",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -7392,8 +7518,8 @@
     "example": "A folding chair."
   },
   {
-    "word": "folk n.,",
-    "pos": "adj.",
+    "word": "folk",
+    "pos": "n., adj.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -7441,8 +7567,8 @@
     "example": "A present for you."
   },
   {
-    "word": "force n.,",
-    "pos": "v.",
+    "word": "force",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -7476,8 +7602,8 @@
     "example": "I eat pasta with a fork."
   },
   {
-    "word": "form n.,",
-    "pos": "v.",
+    "word": "form",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -7553,8 +7679,8 @@
     "example": "The fourth of July."
   },
   {
-    "word": "frame n.,",
-    "pos": "v.",
+    "word": "frame",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -7665,8 +7791,8 @@
     "example": "I'm from Thailand."
   },
   {
-    "word": "front n.,",
-    "pos": "adj.",
+    "word": "front",
+    "pos": "n., adj.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -7728,8 +7854,8 @@
     "example": "What is the function of this machine?"
   },
   {
-    "word": "fund n.,",
-    "pos": "v.",
+    "word": "fund",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -7791,8 +7917,8 @@
     "example": "In the future."
   },
   {
-    "word": "gain v.,",
-    "pos": "n.",
+    "word": "gain",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -7945,9 +8071,16 @@
     "example": ""
   },
   {
-    "word": "giant adj.,",
-    "pos": "n.",
+    "word": "giant",
+    "pos": "adj., n.",
     "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "gift",
+    "pos": "n.",
+    "level": "A2",
     "thai": "",
     "example": ""
   },
@@ -8022,8 +8155,8 @@
     "example": ""
   },
   {
-    "word": "gold n.,",
-    "pos": "adj.",
+    "word": "gold",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -8038,6 +8171,13 @@
   {
     "word": "good",
     "pos": "adj.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "goodbye",
+    "pos": "exclam./n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8092,8 +8232,8 @@
     "example": ""
   },
   {
-    "word": "graduate n.,",
-    "pos": "v.",
+    "word": "graduate",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -8134,8 +8274,8 @@
     "example": ""
   },
   {
-    "word": "grant v.,",
-    "pos": "n.",
+    "word": "grant",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -8155,8 +8295,8 @@
     "example": ""
   },
   {
-    "word": "gray adj.,",
-    "pos": "n.",
+    "word": "gray",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8169,8 +8309,8 @@
     "example": ""
   },
   {
-    "word": "green adj.,",
-    "pos": "n.",
+    "word": "green",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8218,22 +8358,22 @@
     "example": ""
   },
   {
-    "word": "guarantee v.,",
-    "pos": "n.",
+    "word": "guarantee",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "guard n.,",
-    "pos": "v.",
+    "word": "guard",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "guess v.,",
-    "pos": "n.",
+    "word": "guess",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8246,8 +8386,8 @@
     "example": ""
   },
   {
-    "word": "guide n.,",
-    "pos": "v.",
+    "word": "guide",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -8302,9 +8442,9 @@
     "example": ""
   },
   {
-    "word": "half n., det./pron. A1 ,",
-    "pos": "adv.",
-    "level": "A2",
+    "word": "half",
+    "pos": "n., det./pron.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -8323,8 +8463,8 @@
     "example": ""
   },
   {
-    "word": "handle v.,",
-    "pos": "n.",
+    "word": "handle",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -8365,8 +8505,8 @@
     "example": ""
   },
   {
-    "word": "hard adj.,",
-    "pos": "adv.",
+    "word": "hard",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8379,8 +8519,8 @@
     "example": "I could hardly hear him over the noise."
   },
   {
-    "word": "harm n.,",
-    "pos": "v.",
+    "word": "harm",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -8423,6 +8563,13 @@
   {
     "word": "he",
     "pos": "pron.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "head",
+    "pos": "n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8477,8 +8624,8 @@
     "example": ""
   },
   {
-    "word": "heat n.,",
-    "pos": "v.",
+    "word": "heat",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -8540,8 +8687,15 @@
     "example": ""
   },
   {
-    "word": "help v.,",
-    "pos": "n.",
+    "word": "hello",
+    "pos": "exclam./n.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "help",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8554,8 +8708,8 @@
     "example": ""
   },
   {
-    "word": "her pron.,",
-    "pos": "det.",
+    "word": "her",
+    "pos": "pron., det.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8624,8 +8778,8 @@
     "example": ""
   },
   {
-    "word": "highlight v.,",
-    "pos": "n.",
+    "word": "highlight",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -8701,8 +8855,8 @@
     "example": ""
   },
   {
-    "word": "hit v.,",
-    "pos": "n.",
+    "word": "hit",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -8757,8 +8911,8 @@
     "example": ""
   },
   {
-    "word": "home n.,",
-    "pos": "adv.",
+    "word": "home",
+    "pos": "n., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8778,8 +8932,8 @@
     "example": "I need your honest opinion."
   },
   {
-    "word": "honor n.,",
-    "pos": "v.",
+    "word": "honor",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -8848,8 +9002,8 @@
     "example": ""
   },
   {
-    "word": "house n.,",
-    "pos": "v.",
+    "word": "house",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -8890,8 +9044,8 @@
     "example": "They live in a huge house."
   },
   {
-    "word": "human adj.,",
-    "pos": "n.",
+    "word": "human",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -8902,6 +9056,13 @@
     "level": "B2",
     "thai": "ความตลก",
     "example": "He has a great sense of humor."
+  },
+  {
+    "word": "humorous",
+    "pos": "adj.",
+    "level": "B2",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "hundred",
@@ -8939,15 +9100,15 @@
     "example": ""
   },
   {
-    "word": "hurry n.,",
-    "pos": "v.",
+    "word": "hurry",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "hurt v.,",
-    "pos": "adj.",
+    "word": "hurt",
+    "pos": "v., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -9107,8 +9268,8 @@
     "example": "Illegal immigrants."
   },
   {
-    "word": "impact n.,",
-    "pos": "v.",
+    "word": "impact",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -9128,8 +9289,8 @@
     "example": "What do you mean to imply?"
   },
   {
-    "word": "import n.,",
-    "pos": "v.",
+    "word": "import",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -9205,8 +9366,8 @@
     "example": "A significant improvement."
   },
   {
-    "word": "in prep.,",
-    "pos": "adv.",
+    "word": "in",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -9254,8 +9415,8 @@
     "example": "Low-income families need support."
   },
   {
-    "word": "increase v.,",
-    "pos": "n.",
+    "word": "increase",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -9310,8 +9471,8 @@
     "example": "An indirect flight."
   },
   {
-    "word": "individual n.,",
-    "pos": "adj.",
+    "word": "individual",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -9352,8 +9513,8 @@
     "example": "A skin infection."
   },
   {
-    "word": "influence n.,",
-    "pos": "v.",
+    "word": "influence",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -9443,8 +9604,8 @@
     "example": ""
   },
   {
-    "word": "inside prep., adv., n.,",
-    "pos": "adj.",
+    "word": "inside",
+    "pos": "prep., adv., n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -9576,8 +9737,8 @@
     "example": ""
   },
   {
-    "word": "interest n.,",
-    "pos": "v.",
+    "word": "interest",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -9632,8 +9793,8 @@
     "example": ""
   },
   {
-    "word": "interview n.,",
-    "pos": "v.",
+    "word": "interview",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -9730,8 +9891,8 @@
     "example": "The people involved in the accident."
   },
   {
-    "word": "iron n.,",
-    "pos": "v.",
+    "word": "iron",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -9749,6 +9910,13 @@
     "level": "B1",
     "thai": "ประเด็น, ปัญหา",
     "example": "Climate change is a global issue."
+  },
+  {
+    "word": "IT",
+    "pos": "n.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "it",
@@ -9835,8 +10003,8 @@
     "example": "Would you like to join our club?"
   },
   {
-    "word": "joke n.,",
-    "pos": "v.",
+    "word": "joke",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -9856,6 +10024,13 @@
     "example": "The journalist interviewed the president."
   },
   {
+    "word": "journey",
+    "pos": "n.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "joy",
     "pos": "n.",
     "level": "B2",
@@ -9863,8 +10038,8 @@
     "example": ""
   },
   {
-    "word": "judge n.,",
-    "pos": "v.",
+    "word": "judge",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -9891,8 +10066,8 @@
     "example": ""
   },
   {
-    "word": "jump v.,",
-    "pos": "n.",
+    "word": "jump",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -9940,8 +10115,8 @@
     "example": ""
   },
   {
-    "word": "key n.,",
-    "pos": "adj.",
+    "word": "key",
+    "pos": "n., adj.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -9954,8 +10129,8 @@
     "example": "I need a new keyboard for my laptop."
   },
   {
-    "word": "kick v.,",
-    "pos": "n.",
+    "word": "kick",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -9989,16 +10164,16 @@
     "example": ""
   },
   {
-    "word": "kind (type)",
-    "pos": "n.",
-    "level": "A1",
+    "word": "kind (caring)",
+    "pos": "adj.",
+    "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "kind (caring)",
-    "pos": "adj.",
-    "level": "B1",
+    "word": "kind (type)",
+    "pos": "n.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -10010,8 +10185,8 @@
     "example": ""
   },
   {
-    "word": "kiss v.,",
-    "pos": "n.",
+    "word": "kiss",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -10066,8 +10241,8 @@
     "example": ""
   },
   {
-    "word": "label n.,",
-    "pos": "v.",
+    "word": "label",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -10087,8 +10262,8 @@
     "example": ""
   },
   {
-    "word": "lack n.,",
-    "pos": "v.",
+    "word": "lack",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -10171,8 +10346,8 @@
     "example": ""
   },
   {
-    "word": "late adj.,",
-    "pos": "adv.",
+    "word": "late",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -10192,8 +10367,8 @@
     "example": ""
   },
   {
-    "word": "laugh v.,",
-    "pos": "n.",
+    "word": "laugh",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -10206,8 +10381,8 @@
     "example": ""
   },
   {
-    "word": "launch v.,",
-    "pos": "n.",
+    "word": "launch",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -10311,8 +10486,8 @@
     "example": ""
   },
   {
-    "word": "least det./pron.,",
-    "pos": "adv.",
+    "word": "least",
+    "pos": "det./pron., adv.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10332,9 +10507,16 @@
     "example": ""
   },
   {
-    "word": "lecture n.,",
-    "pos": "v.",
+    "word": "lecture",
+    "pos": "n., v.",
     "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "left",
+    "pos": "adj., adv., n.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -10381,8 +10563,8 @@
     "example": ""
   },
   {
-    "word": "less det./pron.,",
-    "pos": "adv.",
+    "word": "less",
+    "pos": "det./pron., adv.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10437,8 +10619,8 @@
     "example": ""
   },
   {
-    "word": "lie2 (tell a lie) v.,",
-    "pos": "n.",
+    "word": "lie2 (tell a lie)",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -10465,13 +10647,6 @@
     "example": ""
   },
   {
-    "word": "adj. A1 ,",
-    "pos": "v.",
-    "level": "A2",
-    "thai": "",
-    "example": ""
-  },
-  {
     "word": "light (not heavy)",
     "pos": "adj.",
     "level": "A2",
@@ -10479,15 +10654,15 @@
     "example": ""
   },
   {
-    "word": "like (similar)",
-    "pos": "prep.",
+    "word": "like (find sb/sth pleasant)",
+    "pos": "v.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "like (find sb/sth pleasant)",
-    "pos": "v.",
+    "word": "like (similar)",
+    "pos": "prep.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -10500,8 +10675,8 @@
     "example": "It is likely to rain this afternoon."
   },
   {
-    "word": "limit n.,",
-    "pos": "v.",
+    "word": "limit",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -10521,8 +10696,8 @@
     "example": ""
   },
   {
-    "word": "link n.,",
-    "pos": "v.",
+    "word": "link",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10542,15 +10717,15 @@
     "example": ""
   },
   {
-    "word": "liquid n.,",
-    "pos": "adj.",
+    "word": "liquid",
+    "pos": "n., adj.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "list n.,",
-    "pos": "v.",
+    "word": "list",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -10577,9 +10752,9 @@
     "example": "She is studying English literature."
   },
   {
-    "word": "little adj., det./pron. A1 ,",
-    "pos": "adv.",
-    "level": "A2",
+    "word": "little",
+    "pos": "adj., det./pron.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -10591,8 +10766,8 @@
     "example": ""
   },
   {
-    "word": "live2 adj.,",
-    "pos": "adv.",
+    "word": "live2",
+    "pos": "adj., adv.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -10605,15 +10780,15 @@
     "example": ""
   },
   {
-    "word": "living adj.,",
-    "pos": "n.",
+    "word": "living",
+    "pos": "adj., n.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "load n.,",
-    "pos": "v.",
+    "word": "load",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -10654,8 +10829,8 @@
     "example": ""
   },
   {
-    "word": "lock v.,",
-    "pos": "n.",
+    "word": "lock",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10675,16 +10850,16 @@
     "example": ""
   },
   {
-    "word": "long1 adj.,",
-    "pos": "adv.",
-    "level": "A1",
+    "word": "long-term",
+    "pos": "adj., adv.",
+    "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "long-term adj.,",
-    "pos": "adv.",
-    "level": "B2",
+    "word": "long1",
+    "pos": "adj., adv.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -10731,15 +10906,15 @@
     "example": ""
   },
   {
-    "word": "lot pron., det.,",
-    "pos": "adv.",
+    "word": "lot",
+    "pos": "pron., det., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "loud adj.,",
-    "pos": "adv.",
+    "word": "loud",
+    "pos": "adj., adv.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10752,15 +10927,15 @@
     "example": ""
   },
   {
-    "word": "love n.,",
-    "pos": "v.",
+    "word": "love",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "low adj.,",
-    "pos": "adv.",
+    "word": "low",
+    "pos": "adj., adv.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10808,6 +10983,13 @@
     "example": ""
   },
   {
+    "word": "machine",
+    "pos": "n.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "mad",
     "pos": "adj.",
     "level": "B1",
@@ -10822,15 +11004,15 @@
     "example": "I enjoy reading a fashion magazine while waiting for the doctor."
   },
   {
-    "word": "magic n.,",
-    "pos": "adj.",
+    "word": "magic",
+    "pos": "n., adj.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "mail n.,",
-    "pos": "v.",
+    "word": "mail",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10878,8 +11060,8 @@
     "example": ""
   },
   {
-    "word": "male adj.,",
-    "pos": "n.",
+    "word": "male",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10927,6 +11109,13 @@
     "example": "He has a very polite manner when speaking to elders."
   },
   {
+    "word": "many",
+    "pos": "det./pron.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "map",
     "pos": "n.",
     "level": "A1",
@@ -10941,8 +11130,8 @@
     "example": ""
   },
   {
-    "word": "mark v.,",
-    "pos": "n.",
+    "word": "mark",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -10983,8 +11172,8 @@
     "example": ""
   },
   {
-    "word": "mass n.,",
-    "pos": "adj.",
+    "word": "mass",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -10997,8 +11186,8 @@
     "example": ""
   },
   {
-    "word": "master n.,",
-    "pos": "v.",
+    "word": "master",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -11032,16 +11221,23 @@
     "example": ""
   },
   {
-    "word": "matter n.,",
-    "pos": "v.",
+    "word": "matter",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "maximum adj.,",
-    "pos": "n.",
+    "word": "maximum",
+    "pos": "adj., n.",
     "level": "B2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "May",
+    "pos": "n.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -11109,8 +11305,8 @@
     "example": ""
   },
   {
-    "word": "measure v.,",
-    "pos": "n.",
+    "word": "measure",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -11214,8 +11410,8 @@
     "example": ""
   },
   {
-    "word": "mess n.,",
-    "pos": "v.",
+    "word": "mess",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -11249,8 +11445,8 @@
     "example": "We need to find a better method to solve this problem."
   },
   {
-    "word": "middle n.,",
-    "pos": "adj.",
+    "word": "middle",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -11270,8 +11466,8 @@
     "example": "We walked five miles today."
   },
   {
-    "word": "military adj.,",
-    "pos": "n.",
+    "word": "military",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -11291,8 +11487,8 @@
     "example": "There are millions of stars in the sky."
   },
   {
-    "word": "mind n.,",
-    "pos": "v.",
+    "word": "mind",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -11319,8 +11515,8 @@
     "example": "Vitamins and minerals are essential for health."
   },
   {
-    "word": "minimum adj.,",
-    "pos": "n.",
+    "word": "minimum",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -11389,8 +11585,8 @@
     "example": "I made a mistake on the test."
   },
   {
-    "word": "mix v.,",
-    "pos": "n.",
+    "word": "mix",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -11459,8 +11655,8 @@
     "example": "I need some money."
   },
   {
-    "word": "monitor n.,",
-    "pos": "v.",
+    "word": "monitor",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -11494,15 +11690,15 @@
     "example": "The moon is bright tonight."
   },
   {
-    "word": "moral adj.,",
-    "pos": "n.",
+    "word": "moral",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "more det./pron.,",
-    "pos": "adv.",
+    "word": "more",
+    "pos": "det./pron., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -11515,8 +11711,8 @@
     "example": "Good morning!"
   },
   {
-    "word": "most det./pron.,",
-    "pos": "adv.",
+    "word": "most",
+    "pos": "det./pron., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -11536,8 +11732,8 @@
     "example": "Like mother, like daughter."
   },
   {
-    "word": "motor n.,",
-    "pos": "adj.",
+    "word": "motor",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -11599,8 +11795,8 @@
     "example": "Let's watch a movie."
   },
   {
-    "word": "much det./pron.,",
-    "pos": "adv.",
+    "word": "much",
+    "pos": "det./pron., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -11627,8 +11823,8 @@
     "example": "Five multiplied by five is twenty-five."
   },
   {
-    "word": "murder n.,",
-    "pos": "v.",
+    "word": "murder",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -11711,15 +11907,15 @@
     "example": "A hammer and nails."
   },
   {
-    "word": "name n.,",
-    "pos": "v.",
+    "word": "name",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "narrative n.,",
-    "pos": "adj.",
+    "word": "narrative",
+    "pos": "n., adj.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -11739,8 +11935,15 @@
     "example": "The entire nation celebrated the holiday together."
   },
   {
-    "word": "native adj.,",
-    "pos": "n.",
+    "word": "national",
+    "pos": "adj.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "native",
+    "pos": "adj., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -11767,8 +11970,8 @@
     "example": "The laws of nature."
   },
   {
-    "word": "near prep., adj.,",
-    "pos": "adv.",
+    "word": "near",
+    "pos": "prep., adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -11844,9 +12047,9 @@
     "example": "A quiet neighborhood."
   },
   {
-    "word": "neither det./pron. A2 ,",
-    "pos": "adv.",
-    "level": "B1",
+    "word": "neither",
+    "pos": "det./pron.",
+    "level": "A2",
     "thai": "",
     "example": ""
   },
@@ -11914,8 +12117,8 @@
     "example": "I read the newspaper every morning."
   },
   {
-    "word": "next adj.,",
-    "pos": "adv.",
+    "word": "next",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -11970,8 +12173,8 @@
     "example": "Ninety dollars."
   },
   {
-    "word": "no exclam.,",
-    "pos": "det.",
+    "word": "no",
+    "pos": "exclam., det.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12012,6 +12215,13 @@
     "example": "None of my friends could come."
   },
   {
+    "word": "nor",
+    "pos": "conj./adv.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "normal",
     "pos": "adj.",
     "level": "A2",
@@ -12026,8 +12236,8 @@
     "example": "Normally, I go to bed at 10 PM."
   },
   {
-    "word": "north n., adj.,",
-    "pos": "adv.",
+    "word": "north",
+    "pos": "n., adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12068,8 +12278,8 @@
     "example": "Nothing happened."
   },
   {
-    "word": "notice v.,",
-    "pos": "n.",
+    "word": "notice",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -12124,6 +12334,13 @@
     "example": "A lucky number."
   },
   {
+    "word": "number A1 ,",
+    "pos": "adv.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "numerous",
     "pos": "adj.",
     "level": "B2",
@@ -12159,8 +12376,8 @@
     "example": "There was a strange object flying in the sky."
   },
   {
-    "word": "objective n.,",
-    "pos": "adj.",
+    "word": "objective",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -12215,6 +12432,13 @@
     "example": "A wedding is a very special occasion."
   },
   {
+    "word": "occasionally",
+    "pos": "adv.",
+    "level": "B2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "occur",
     "pos": "v.",
     "level": "B1",
@@ -12227,13 +12451,6 @@
     "level": "A1",
     "thai": "มหาสมุทร",
     "example": "The Atlantic Ocean."
-  },
-  {
-    "word": "o’clock",
-    "pos": "adv.",
-    "level": "A1",
-    "thai": "",
-    "example": ""
   },
   {
     "word": "October",
@@ -12257,8 +12474,8 @@
     "example": "A cup of tea."
   },
   {
-    "word": "off adv.,",
-    "pos": "prep.",
+    "word": "off",
+    "pos": "adv., prep.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12285,8 +12502,8 @@
     "example": "Offensive language."
   },
   {
-    "word": "offer v.,",
-    "pos": "n.",
+    "word": "offer",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -12334,6 +12551,13 @@
     "example": "Cooking oil."
   },
   {
+    "word": "OK",
+    "pos": "exclam., adj./adv.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "old",
     "pos": "adj.",
     "level": "A1",
@@ -12348,8 +12572,8 @@
     "example": "Old-fashioned clothes."
   },
   {
-    "word": "on prep.,",
-    "pos": "adv.",
+    "word": "on",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12362,8 +12586,8 @@
     "example": "I've been to Paris once."
   },
   {
-    "word": "one number/det.,",
-    "pos": "pron.",
+    "word": "one",
+    "pos": "number/det., pron.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12376,15 +12600,15 @@
     "example": "I like onions."
   },
   {
-    "word": "online adj.,",
-    "pos": "adv.",
+    "word": "online",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "only adj.,",
-    "pos": "adv.",
+    "word": "only",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12397,8 +12621,8 @@
     "example": "The cat jumped onto the table."
   },
   {
-    "word": "open adj.,",
-    "pos": "v.",
+    "word": "open",
+    "pos": "adj., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12460,8 +12684,8 @@
     "example": "I am opposed to the idea."
   },
   {
-    "word": "opposite adj., adv., prep.,",
-    "pos": "n.",
+    "word": "opposite",
+    "pos": "adj., adv., prep., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12488,15 +12712,15 @@
     "example": "Tea or coffee?"
   },
   {
-    "word": "orange n.,",
-    "pos": "adj.",
+    "word": "orange",
+    "pos": "n., adj.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "order n.,",
-    "pos": "v.",
+    "word": "order",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12565,6 +12789,13 @@
     "example": "Originally, I'm from Bangkok."
   },
   {
+    "word": "other",
+    "pos": "adj./pron.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "otherwise",
     "pos": "adv.",
     "level": "B2",
@@ -12600,6 +12831,13 @@
     "example": "We can do it ourselves."
   },
   {
+    "word": "out",
+    "pos": "adv./prep.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "outcome",
     "pos": "n.",
     "level": "B2",
@@ -12628,8 +12866,8 @@
     "example": "Outer space."
   },
   {
-    "word": "outline n.,",
-    "pos": "v.",
+    "word": "outline",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -12649,15 +12887,15 @@
     "example": "Put the cake in the oven."
   },
   {
-    "word": "over prep.,",
-    "pos": "adv.",
+    "word": "over",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "overall adj.,",
-    "pos": "adv.",
+    "word": "overall",
+    "pos": "adj., adv.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -12670,9 +12908,16 @@
     "example": "Travel overseas."
   },
   {
-    "word": "own adj./pron. A1 ,",
+    "word": "owe",
     "pos": "v.",
-    "level": "A2",
+    "level": "B2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "own",
+    "pos": "adj./pron.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -12684,8 +12929,15 @@
     "example": ""
   },
   {
-    "word": "pace n.,",
-    "pos": "v.",
+    "word": "o’clock",
+    "pos": "adv.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "pace",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -12726,8 +12978,8 @@
     "example": ""
   },
   {
-    "word": "paint v.,",
-    "pos": "n.",
+    "word": "paint",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12810,8 +13062,8 @@
     "example": ""
   },
   {
-    "word": "park n.,",
-    "pos": "v.",
+    "word": "park",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -12915,8 +13167,8 @@
     "example": ""
   },
   {
-    "word": "past adj., n.,",
-    "pos": "prep.",
+    "word": "past",
+    "pos": "adj., n., prep.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -13013,6 +13265,13 @@
     "example": ""
   },
   {
+    "word": "percent noun.,",
+    "pos": "adj./adv.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "percentage",
     "pos": "n.",
     "level": "B1",
@@ -13076,8 +13335,8 @@
     "example": ""
   },
   {
-    "word": "permit v.,",
-    "pos": "n.",
+    "word": "permit",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -13139,8 +13398,8 @@
     "example": ""
   },
   {
-    "word": "phone n.,",
-    "pos": "v.",
+    "word": "phone",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -13230,8 +13489,8 @@
     "example": ""
   },
   {
-    "word": "pile n.,",
-    "pos": "v.",
+    "word": "pile",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -13244,15 +13503,15 @@
     "example": ""
   },
   {
-    "word": "pin n.,",
-    "pos": "v.",
+    "word": "pin",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "pink adj.,",
-    "pos": "n.",
+    "word": "pink",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -13286,8 +13545,8 @@
     "example": ""
   },
   {
-    "word": "plan n.,",
-    "pos": "v.",
+    "word": "plan",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -13321,8 +13580,8 @@
     "example": ""
   },
   {
-    "word": "plastic n.,",
-    "pos": "adj.",
+    "word": "plastic",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -13342,8 +13601,8 @@
     "example": ""
   },
   {
-    "word": "play v.,",
-    "pos": "n.",
+    "word": "play",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -13447,8 +13706,8 @@
     "example": ""
   },
   {
-    "word": "poison n.,",
-    "pos": "v.",
+    "word": "poison",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -13531,8 +13790,8 @@
     "example": ""
   },
   {
-    "word": "pop n.,",
-    "pos": "adj.",
+    "word": "pop",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -13622,8 +13881,15 @@
     "example": ""
   },
   {
-    "word": "post n.,",
-    "pos": "v.",
+    "word": "possibly",
+    "pos": "adv.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "post",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -13650,8 +13916,8 @@
     "example": ""
   },
   {
-    "word": "potential adj.,",
-    "pos": "n.",
+    "word": "potential",
+    "pos": "adj., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -13706,15 +13972,15 @@
     "example": ""
   },
   {
-    "word": "practice n.,",
-    "pos": "v.",
+    "word": "practice",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "praise n.,",
-    "pos": "v.",
+    "word": "praise",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -13790,8 +14056,8 @@
     "example": ""
   },
   {
-    "word": "present adj.,",
-    "pos": "n.",
+    "word": "present",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -13818,8 +14084,8 @@
     "example": ""
   },
   {
-    "word": "press v.,",
-    "pos": "n.",
+    "word": "press",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -13839,8 +14105,8 @@
     "example": ""
   },
   {
-    "word": "pretty adj.,",
-    "pos": "adv.",
+    "word": "pretty",
+    "pos": "adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -14084,8 +14350,8 @@
     "example": ""
   },
   {
-    "word": "progress n.,",
-    "pos": "v.",
+    "word": "progress",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -14098,9 +14364,16 @@
     "example": ""
   },
   {
-    "word": "promise v.,",
-    "pos": "n.",
+    "word": "promise",
+    "pos": "v., n.",
     "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "promote",
+    "pos": "v.",
+    "level": "B1",
     "thai": "",
     "example": ""
   },
@@ -14175,8 +14448,8 @@
     "example": ""
   },
   {
-    "word": "protest n.,",
-    "pos": "v.",
+    "word": "protest",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -14217,8 +14490,8 @@
     "example": ""
   },
   {
-    "word": "public adj.,",
-    "pos": "n.",
+    "word": "public",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -14259,8 +14532,8 @@
     "example": ""
   },
   {
-    "word": "purchase n.,",
-    "pos": "v.",
+    "word": "purchase",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -14273,8 +14546,8 @@
     "example": ""
   },
   {
-    "word": "purple adj.,",
-    "pos": "n.",
+    "word": "purple",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -14413,15 +14686,15 @@
     "example": ""
   },
   {
-    "word": "quote v.,",
-    "pos": "n.",
+    "word": "quote",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "race (competition) n.,",
-    "pos": "v.",
+    "word": "race (competition)",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -14455,8 +14728,8 @@
     "example": ""
   },
   {
-    "word": "rain n.,",
-    "pos": "v.",
+    "word": "rain",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -14476,8 +14749,8 @@
     "example": ""
   },
   {
-    "word": "rank n.,",
-    "pos": "v.",
+    "word": "rank",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -14588,6 +14861,13 @@
     "example": ""
   },
   {
+    "word": "realistic",
+    "pos": "adj.",
+    "level": "B2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "reality",
     "pos": "n.",
     "level": "B1",
@@ -14693,8 +14973,8 @@
     "example": ""
   },
   {
-    "word": "record n.,",
-    "pos": "v.",
+    "word": "record",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -14721,8 +15001,8 @@
     "example": ""
   },
   {
-    "word": "red adj.,",
-    "pos": "n.",
+    "word": "red",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -14777,8 +15057,8 @@
     "example": ""
   },
   {
-    "word": "regard v.,",
-    "pos": "n.",
+    "word": "regard",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -14798,15 +15078,15 @@
     "example": ""
   },
   {
-    "word": "register v.,",
-    "pos": "n.",
+    "word": "register",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "regret v.,",
-    "pos": "n.",
+    "word": "regret",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -14868,8 +15148,8 @@
     "example": ""
   },
   {
-    "word": "relative adj.,",
-    "pos": "n.",
+    "word": "relative",
+    "pos": "adj., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -14903,8 +15183,8 @@
     "example": ""
   },
   {
-    "word": "release v.,",
-    "pos": "n.",
+    "word": "release",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -14959,8 +15239,8 @@
     "example": ""
   },
   {
-    "word": "remark n.,",
-    "pos": "v.",
+    "word": "remark",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -14994,8 +15274,8 @@
     "example": ""
   },
   {
-    "word": "rent n.,",
-    "pos": "v.",
+    "word": "rent",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -15029,8 +15309,8 @@
     "example": ""
   },
   {
-    "word": "reply v.,",
-    "pos": "n.",
+    "word": "reply",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15057,8 +15337,8 @@
     "example": ""
   },
   {
-    "word": "representative n.,",
-    "pos": "adj.",
+    "word": "representative",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -15078,15 +15358,15 @@
     "example": ""
   },
   {
-    "word": "rescue v.,",
-    "pos": "n.",
+    "word": "rescue",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "research n.,",
-    "pos": "v.",
+    "word": "research",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15106,15 +15386,15 @@
     "example": ""
   },
   {
-    "word": "reserve n.,",
-    "pos": "v.",
+    "word": "reserve",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "resident n.,",
-    "pos": "adj.",
+    "word": "resident",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -15148,8 +15428,8 @@
     "example": ""
   },
   {
-    "word": "respect n.,",
-    "pos": "v.",
+    "word": "respect",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -15190,8 +15470,8 @@
     "example": ""
   },
   {
-    "word": "rest (sleep/relax) n.,",
-    "pos": "v.",
+    "word": "rest (sleep/relax)",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15232,8 +15512,8 @@
     "example": ""
   },
   {
-    "word": "return v.,",
-    "pos": "n.",
+    "word": "return",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -15246,8 +15526,8 @@
     "example": ""
   },
   {
-    "word": "review n.,",
-    "pos": "v.",
+    "word": "review",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15267,8 +15547,8 @@
     "example": ""
   },
   {
-    "word": "reward n.,",
-    "pos": "v.",
+    "word": "reward",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -15309,8 +15589,8 @@
     "example": ""
   },
   {
-    "word": "right adj., adv.,",
-    "pos": "n.",
+    "word": "right",
+    "pos": "adj., adv., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -15337,8 +15617,8 @@
     "example": ""
   },
   {
-    "word": "risk n.,",
-    "pos": "v.",
+    "word": "risk",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -15365,14 +15645,14 @@
     "example": ""
   },
   {
-    "word": "rock (stone)",
+    "word": "rock (music)",
     "pos": "n.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "rock (music)",
+    "word": "rock (stone)",
     "pos": "n.",
     "level": "A2",
     "thai": "",
@@ -15386,8 +15666,8 @@
     "example": "He has a key role in the team."
   },
   {
-    "word": "roll v.,",
-    "pos": "n.",
+    "word": "roll",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -15435,8 +15715,8 @@
     "example": ""
   },
   {
-    "word": "round adj., adv.,",
-    "pos": "prep.",
+    "word": "round",
+    "pos": "adj., adv., prep.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15477,8 +15757,8 @@
     "example": ""
   },
   {
-    "word": "rubber n.,",
-    "pos": "adj.",
+    "word": "rubber",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -15526,8 +15806,8 @@
     "example": ""
   },
   {
-    "word": "rush v.,",
-    "pos": "n.",
+    "word": "rush",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -15542,6 +15822,13 @@
   {
     "word": "sadly",
     "pos": "adv.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "safe",
+    "pos": "adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15603,8 +15890,8 @@
     "example": "Please pass the salt."
   },
   {
-    "word": "same adj., pron.,",
-    "pos": "adv.",
+    "word": "same",
+    "pos": "adj., pron., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -15757,15 +16044,15 @@
     "example": "The scientist discovered a new planet."
   },
   {
-    "word": "score v.,",
-    "pos": "n.",
+    "word": "score",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "scream v.,",
-    "pos": "n.",
+    "word": "scream",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -15799,8 +16086,8 @@
     "example": "The sea is very calm today."
   },
   {
-    "word": "search n.,",
-    "pos": "v.",
+    "word": "search",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15820,13 +16107,6 @@
     "example": "Is this seat taken?"
   },
   {
-    "word": "number A1 ,",
-    "pos": "adv.",
-    "level": "A2",
-    "thai": "",
-    "example": ""
-  },
-  {
     "word": "second1 (unit of time)",
     "pos": "n.",
     "level": "A1",
@@ -15841,8 +16121,8 @@
     "example": "He is a secondary school teacher."
   },
   {
-    "word": "secret adj.,",
-    "pos": "n.",
+    "word": "secret",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -15869,8 +16149,8 @@
     "example": "The private sector is growing rapidly."
   },
   {
-    "word": "secure v.,",
-    "pos": "adj.",
+    "word": "secure",
+    "pos": "v., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -16023,6 +16303,13 @@
     "example": "I am watching a new TV series."
   },
   {
+    "word": "serious",
+    "pos": "adj.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "seriously",
     "pos": "adv.",
     "level": "B1",
@@ -16058,15 +16345,15 @@
     "example": "The training session lasted two hours."
   },
   {
-    "word": "set (put)",
-    "pos": "v.",
+    "word": "set (group)",
+    "pos": "n.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "set (group)",
-    "pos": "n.",
+    "word": "set (put)",
+    "pos": "v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -16103,6 +16390,13 @@
     "word": "seventy",
     "pos": "number",
     "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "several",
+    "pos": "det./pron.",
+    "level": "A2",
     "thai": "",
     "example": ""
   },
@@ -16226,8 +16520,8 @@
     "example": "I found a beautiful sea shell."
   },
   {
-    "word": "shelter n.,",
-    "pos": "v.",
+    "word": "shelter",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -16268,8 +16562,8 @@
     "example": "He is wearing a white shirt."
   },
   {
-    "word": "shock n.,",
-    "pos": "v.",
+    "word": "shock",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -16303,8 +16597,8 @@
     "example": ""
   },
   {
-    "word": "shop n.,",
-    "pos": "v.",
+    "word": "shop",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -16345,15 +16639,15 @@
     "example": "He carried the bag on his shoulder."
   },
   {
-    "word": "shout v.,",
-    "pos": "n.",
+    "word": "shout",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "show v.,",
-    "pos": "n.",
+    "word": "show",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -16366,8 +16660,8 @@
     "example": "I take a shower every morning."
   },
   {
-    "word": "shut v.,",
-    "pos": "adj.",
+    "word": "shut",
+    "pos": "v., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -16401,15 +16695,15 @@
     "example": "He lost his sight in an accident."
   },
   {
-    "word": "sign n.,",
-    "pos": "v.",
+    "word": "sign",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "signal n.,",
-    "pos": "v.",
+    "word": "signal",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -16457,8 +16751,8 @@
     "example": ""
   },
   {
-    "word": "silver n.,",
-    "pos": "adj.",
+    "word": "silver",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -16499,6 +16793,13 @@
     "example": "I simply don't have the time."
   },
   {
+    "word": "since",
+    "pos": "prep., conj.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "sincere",
     "pos": "adj.",
     "level": "B2",
@@ -16527,8 +16828,8 @@
     "example": ""
   },
   {
-    "word": "single adj.,",
-    "pos": "n.",
+    "word": "single",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -16604,8 +16905,8 @@
     "example": "What size do you wear?"
   },
   {
-    "word": "ski v.,",
-    "pos": "n.",
+    "word": "ski",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -16660,15 +16961,15 @@
     "example": "I didn't get much sleep last night."
   },
   {
-    "word": "slice n.,",
-    "pos": "v.",
+    "word": "slice",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "slide v.,",
-    "pos": "n.",
+    "word": "slide",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -16695,8 +16996,8 @@
     "example": "Be careful not to slip on the ice."
   },
   {
-    "word": "slope n.,",
-    "pos": "v.",
+    "word": "slope",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -16737,22 +17038,22 @@
     "example": ""
   },
   {
-    "word": "smell v.,",
-    "pos": "n.",
+    "word": "smell",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "smile v.,",
-    "pos": "n.",
+    "word": "smile",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "smoke n.,",
-    "pos": "v.",
+    "word": "smoke",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -16786,15 +17087,15 @@
     "example": ""
   },
   {
-    "word": "snow n.,",
-    "pos": "v.",
+    "word": "snow",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "so adv.,",
-    "pos": "conj.",
+    "word": "so",
+    "pos": "adv., conj.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -16870,8 +17171,8 @@
     "example": "The soldier returned home from the war."
   },
   {
-    "word": "solid adj.,",
-    "pos": "n.",
+    "word": "solid",
+    "pos": "adj., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -16891,8 +17192,8 @@
     "example": "Can you solve this puzzle?"
   },
   {
-    "word": "some det.,",
-    "pos": "pron.",
+    "word": "some",
+    "pos": "det., pron.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -16933,8 +17234,8 @@
     "example": ""
   },
   {
-    "word": "somewhere adv.,",
-    "pos": "pron.",
+    "word": "somewhere",
+    "pos": "adv., pron.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -16961,8 +17262,8 @@
     "example": "See you soon!"
   },
   {
-    "word": "sorry adj.,",
-    "pos": "exclam.",
+    "word": "sorry",
+    "pos": "adj., exclam.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -16989,8 +17290,8 @@
     "example": "What is the source of this information?"
   },
   {
-    "word": "south n., adj.,",
-    "pos": "adv.",
+    "word": "south",
+    "pos": "n., adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -17031,8 +17332,8 @@
     "example": "Today is a special day."
   },
   {
-    "word": "specialist n.,",
-    "pos": "adj.",
+    "word": "specialist",
+    "pos": "n., adj.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17129,8 +17430,8 @@
     "example": ""
   },
   {
-    "word": "split v.,",
-    "pos": "n.",
+    "word": "split",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17143,8 +17444,8 @@
     "example": ""
   },
   {
-    "word": "sponsor v.,",
-    "pos": "n.",
+    "word": "sponsor",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17185,8 +17486,8 @@
     "example": "Flowers bloom in the spring."
   },
   {
-    "word": "square adj.,",
-    "pos": "n.",
+    "word": "square",
+    "pos": "adj., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -17241,8 +17542,8 @@
     "example": "Please stand in line."
   },
   {
-    "word": "standard n.,",
-    "pos": "adj.",
+    "word": "standard",
+    "pos": "n., adj.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -17353,15 +17654,15 @@
     "example": "Take it one step at a time."
   },
   {
-    "word": "stick (push into/attach)",
-    "pos": "v.",
+    "word": "stick (piece of wood)",
+    "pos": "n.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "stick (piece of wood)",
-    "pos": "n.",
+    "word": "stick (push into/attach)",
+    "pos": "v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -17409,8 +17710,8 @@
     "example": "He threw a stone into the water."
   },
   {
-    "word": "stop v.,",
-    "pos": "n.",
+    "word": "stop",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -17444,8 +17745,8 @@
     "example": ""
   },
   {
-    "word": "straight adv.,",
-    "pos": "adj.",
+    "word": "straight",
+    "pos": "adv., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -17456,6 +17757,13 @@
     "level": "A2",
     "thai": "แปลก",
     "example": "That's a strange coincidence."
+  },
+  {
+    "word": "stranger",
+    "pos": "n.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "strategy",
@@ -17486,15 +17794,15 @@
     "example": "He has great physical strength."
   },
   {
-    "word": "stress n.,",
-    "pos": "v.",
+    "word": "stress",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "stretch v.,",
-    "pos": "n.",
+    "word": "stretch",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17507,8 +17815,8 @@
     "example": "My parents were very strict."
   },
   {
-    "word": "strike v.,",
-    "pos": "n.",
+    "word": "strike",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17542,8 +17850,8 @@
     "example": "The structure of the building is solid."
   },
   {
-    "word": "struggle v.,",
-    "pos": "n.",
+    "word": "struggle",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17563,8 +17871,8 @@
     "example": ""
   },
   {
-    "word": "study n.,",
-    "pos": "v.",
+    "word": "study",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -17647,6 +17955,13 @@
     "example": ""
   },
   {
+    "word": "such",
+    "pos": "det./pron.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "sudden",
     "pos": "adj.",
     "level": "B1",
@@ -17703,8 +18018,8 @@
     "example": "This movie is not suitable for children."
   },
   {
-    "word": "sum n.,",
-    "pos": "v.",
+    "word": "sum",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17752,15 +18067,15 @@
     "example": "I'm going to the supermarket."
   },
   {
-    "word": "supply n.,",
-    "pos": "v.",
+    "word": "supply",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "support v.,",
-    "pos": "n.",
+    "word": "support",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -17808,8 +18123,8 @@
     "example": ""
   },
   {
-    "word": "surprise n.,",
-    "pos": "v.",
+    "word": "surprise",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -17857,8 +18172,8 @@
     "example": "They managed to survive the accident."
   },
   {
-    "word": "suspect v.,",
-    "pos": "n.",
+    "word": "suspect",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -17930,6 +18245,20 @@
     "word": "symptom",
     "pos": "n.",
     "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "system",
+    "pos": "n.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "T-shirt",
+    "pos": "n.",
+    "level": "A1",
     "thai": "",
     "example": ""
   },
@@ -18025,15 +18354,15 @@
     "example": "This is a difficult task."
   },
   {
-    "word": "taste n.,",
-    "pos": "v.",
+    "word": "taste",
+    "pos": "n., v.",
     "level": "A2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "tax n.,",
-    "pos": "v.",
+    "word": "tax",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -18081,8 +18410,8 @@
     "example": "Our team won the match."
   },
   {
-    "word": "tear1 v.,",
-    "pos": "n.",
+    "word": "tear1",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -18130,8 +18459,8 @@
     "example": ""
   },
   {
-    "word": "telephone n.,",
-    "pos": "v.",
+    "word": "telephone",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -18207,8 +18536,8 @@
     "example": "The weather was terrible."
   },
   {
-    "word": "test n.,",
-    "pos": "v.",
+    "word": "test",
+    "pos": "n., v.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -18235,15 +18564,22 @@
     "example": ""
   },
   {
-    "word": "thanks exclam.,",
-    "pos": "n.",
+    "word": "thanks",
+    "pos": "exclam., n.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "that det., pron.,",
-    "pos": "conj.",
+    "word": "that",
+    "pos": "det., pron., conj.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "the definite",
+    "pos": "article",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -18403,8 +18739,15 @@
     "example": ""
   },
   {
-    "word": "this det./pron. A1 ,",
-    "pos": "adv.",
+    "word": "this",
+    "pos": "det./pron.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "though",
+    "pos": "conj., adv.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -18452,9 +18795,16 @@
     "example": ""
   },
   {
-    "word": "through prep.,",
-    "pos": "adv.",
+    "word": "through",
+    "pos": "prep., adv.",
     "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "throughout",
+    "pos": "prep./adv.",
+    "level": "B1",
     "thai": "",
     "example": ""
   },
@@ -18487,8 +18837,8 @@
     "example": "Do you have your ticket?"
   },
   {
-    "word": "tie v.,",
-    "pos": "n.",
+    "word": "tie",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -18499,6 +18849,13 @@
     "level": "B1",
     "thai": "แน่น",
     "example": "These shoes are too tight."
+  },
+  {
+    "word": "till",
+    "pos": "conj./prep.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "time",
@@ -18543,8 +18900,15 @@
     "example": "What is the title of the book?"
   },
   {
-    "word": "today adv.,",
-    "pos": "n.",
+    "word": "to",
+    "pos": "prep., infinitive marker",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "today",
+    "pos": "adv., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -18578,8 +18942,8 @@
     "example": ""
   },
   {
-    "word": "tomorrow adv.,",
-    "pos": "n.",
+    "word": "tomorrow",
+    "pos": "adv., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -18606,8 +18970,8 @@
     "example": ""
   },
   {
-    "word": "tonight adv.,",
-    "pos": "n.",
+    "word": "tonight",
+    "pos": "adv., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -18634,8 +18998,8 @@
     "example": "I have a toothache."
   },
   {
-    "word": "top n.,",
-    "pos": "adj.",
+    "word": "top",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -18648,8 +19012,8 @@
     "example": ""
   },
   {
-    "word": "total adj.,",
-    "pos": "n.",
+    "word": "total",
+    "pos": "adj., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -18725,8 +19089,8 @@
     "example": "I live in a small town."
   },
   {
-    "word": "toy n.,",
-    "pos": "adj.",
+    "word": "toy",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -18739,8 +19103,8 @@
     "example": "We followed the track."
   },
   {
-    "word": "trade n.,",
-    "pos": "v.",
+    "word": "trade",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -18788,8 +19152,8 @@
     "example": ""
   },
   {
-    "word": "transfer v.,",
-    "pos": "n.",
+    "word": "transfer",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -18844,8 +19208,8 @@
     "example": ""
   },
   {
-    "word": "travel v.,",
-    "pos": "n.",
+    "word": "travel",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -18879,8 +19243,8 @@
     "example": ""
   },
   {
-    "word": "trick n.,",
-    "pos": "v.",
+    "word": "trick",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -18928,8 +19292,8 @@
     "example": ""
   },
   {
-    "word": "trust n.,",
-    "pos": "v.",
+    "word": "trust",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -18947,13 +19311,6 @@
     "level": "A1",
     "thai": "พยายาม / ลอง",
     "example": "Try your best."
-  },
-  {
-    "word": "T-shirt",
-    "pos": "n.",
-    "level": "A1",
-    "thai": "",
-    "example": ""
   },
   {
     "word": "tube",
@@ -18984,8 +19341,8 @@
     "example": ""
   },
   {
-    "word": "turn v.,",
-    "pos": "n.",
+    "word": "turn",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -19019,8 +19376,8 @@
     "example": ""
   },
   {
-    "word": "twin n.,",
-    "pos": "adj.",
+    "word": "twin",
+    "pos": "n., adj.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -19103,15 +19460,15 @@
     "example": ""
   },
   {
-    "word": "under prep.,",
-    "pos": "adv.",
+    "word": "under",
+    "pos": "prep., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "underground adj.,",
-    "pos": "adv.",
+    "word": "underground",
+    "pos": "adj., adv.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -19271,6 +19628,13 @@
     "example": ""
   },
   {
+    "word": "until",
+    "pos": "conj./prep.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "unusual",
     "pos": "adj.",
     "level": "A2",
@@ -19278,15 +19642,15 @@
     "example": "That's an unusual name."
   },
   {
-    "word": "up adv.,",
-    "pos": "prep.",
+    "word": "up",
+    "pos": "adv., prep.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "update v.,",
-    "pos": "n.",
+    "word": "update",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -19306,8 +19670,8 @@
     "example": "The upper floor is closed."
   },
   {
-    "word": "upset adj.,",
-    "pos": "v.",
+    "word": "upset",
+    "pos": "adj., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -19355,6 +19719,13 @@
     "example": "Can I use your pen?"
   },
   {
+    "word": "used to",
+    "pos": "modal v.",
+    "level": "A2",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "used1",
     "pos": "adj.",
     "level": "B1",
@@ -19365,13 +19736,6 @@
     "word": "used2",
     "pos": "adj.",
     "level": "B1",
-    "thai": "",
-    "example": ""
-  },
-  {
-    "word": "used to",
-    "pos": "modal v.",
-    "level": "A2",
     "thai": "",
     "example": ""
   },
@@ -19586,8 +19950,8 @@
     "example": ""
   },
   {
-    "word": "visit v.,",
-    "pos": "n.",
+    "word": "visit",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -19635,15 +19999,15 @@
     "example": "Turn up the volume."
   },
   {
-    "word": "volunteer n.,",
-    "pos": "v.",
+    "word": "volunteer",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "vote n.,",
-    "pos": "v.",
+    "word": "vote",
+    "pos": "n., v.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -19675,6 +20039,13 @@
     "level": "A1",
     "thai": "ตื่น",
     "example": "I wake up at 6 AM."
+  },
+  {
+    "word": "walk",
+    "pos": "v., n.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "wall",
@@ -19733,15 +20104,15 @@
     "example": ""
   },
   {
-    "word": "waste n., v.,",
-    "pos": "adj.",
+    "word": "waste",
+    "pos": "n., v., adj.",
     "level": "B1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "watch v.,",
-    "pos": "n.",
+    "word": "watch",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -19880,22 +20251,22 @@
     "example": "What is your weight?"
   },
   {
-    "word": "welcome exclam., v.,",
-    "pos": "adj.",
+    "word": "welcome",
+    "pos": "exclam., v., adj.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "well adv., adj.,",
-    "pos": "exclam.",
+    "word": "well",
+    "pos": "adv., adj., exclam.",
     "level": "A1",
     "thai": "",
     "example": ""
   },
   {
-    "word": "west n., adj.,",
-    "pos": "adv.",
+    "word": "west",
+    "pos": "n., adj., adv.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -19915,6 +20286,20 @@
     "example": "My clothes are wet."
   },
   {
+    "word": "what",
+    "pos": "pron./det.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "whatever",
+    "pos": "det./pron.",
+    "level": "B1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "wheel",
     "pos": "n.",
     "level": "A2",
@@ -19922,8 +20307,8 @@
     "example": "The car has four wheels."
   },
   {
-    "word": "when adv., pron.,",
-    "pos": "conj.",
+    "word": "when",
+    "pos": "adv., pron., conj.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -19936,8 +20321,8 @@
     "example": ""
   },
   {
-    "word": "where adv.,",
-    "pos": "conj.",
+    "word": "where",
+    "pos": "adv., conj.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -19964,6 +20349,13 @@
     "example": "I don't know whether to go."
   },
   {
+    "word": "which",
+    "pos": "pron./det.",
+    "level": "A1",
+    "thai": "",
+    "example": ""
+  },
+  {
     "word": "while",
     "pos": "conj.",
     "level": "A2",
@@ -19971,15 +20363,15 @@
     "example": "I listened to music while working."
   },
   {
-    "word": "whisper v.,",
-    "pos": "n.",
+    "word": "whisper",
+    "pos": "v., n.",
     "level": "B2",
     "thai": "",
     "example": ""
   },
   {
-    "word": "white adj.,",
-    "pos": "n.",
+    "word": "white",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -20002,6 +20394,13 @@
     "word": "whom",
     "pos": "pron.",
     "level": "B2",
+    "thai": "",
+    "example": ""
+  },
+  {
+    "word": "whose",
+    "pos": "det./pron.",
+    "level": "A2",
     "thai": "",
     "example": ""
   },
@@ -20053,6 +20452,13 @@
     "level": "A1",
     "thai": "จะ",
     "example": "I will help you."
+  },
+  {
+    "word": "willing",
+    "pos": "adj.",
+    "level": "B2",
+    "thai": "",
+    "example": ""
   },
   {
     "word": "win",
@@ -20125,8 +20531,8 @@
     "example": "That was a wise decision."
   },
   {
-    "word": "wish v.,",
-    "pos": "n.",
+    "word": "wish",
+    "pos": "v., n.",
     "level": "A2",
     "thai": "",
     "example": ""
@@ -20153,8 +20559,8 @@
     "example": "I can't live without you."
   },
   {
-    "word": "witness n.,",
-    "pos": "v.",
+    "word": "witness",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -20167,8 +20573,8 @@
     "example": "She is a strong woman."
   },
   {
-    "word": "wonder v.,",
-    "pos": "n.",
+    "word": "wonder",
+    "pos": "v., n.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -20209,8 +20615,8 @@
     "example": "What does this word mean?"
   },
   {
-    "word": "work v.,",
-    "pos": "n.",
+    "word": "work",
+    "pos": "v., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -20237,8 +20643,8 @@
     "example": "The world is a big place."
   },
   {
-    "word": "worldwide adj.,",
-    "pos": "adv.",
+    "word": "worldwide",
+    "pos": "adj., adv.",
     "level": "B1",
     "thai": "",
     "example": ""
@@ -20286,8 +20692,8 @@
     "example": "Would you like some coffee?"
   },
   {
-    "word": "wound n.,",
-    "pos": "v.",
+    "word": "wound",
+    "pos": "n., v.",
     "level": "B2",
     "thai": "",
     "example": ""
@@ -20363,8 +20769,8 @@
     "example": "Happy New Year!"
   },
   {
-    "word": "yellow adj.,",
-    "pos": "n.",
+    "word": "yellow",
+    "pos": "adj., n.",
     "level": "A1",
     "thai": "",
     "example": ""
@@ -20377,8 +20783,8 @@
     "example": "Yes please."
   },
   {
-    "word": "yesterday adv.,",
-    "pos": "n.",
+    "word": "yesterday",
+    "pos": "adv., n.",
     "level": "A1",
     "thai": "",
     "example": ""
