@@ -108,14 +108,6 @@
         .btn-dont-know:hover { background-color: #c82333; }
         
         .stats { margin-top: 10px; color: #555; font-weight: 500; }
-        .mastery-badge {
-            position: absolute;
-            top: 15px;
-            right: 15px;
-            font-size: 1.5em;
-            display: none;
-        }
-        .is-mastered .mastery-badge { display: block; }
         .is-mastered .front { border-color: #28a745; background-color: #f8fff9; }
 
         .export-section {
@@ -149,7 +141,6 @@
         <div class="flashcard-container" onclick="flipCard()">
             <div class="flashcard" id="card">
                 <div class="front">
-                    <div class="mastery-badge">✅</div>
                     <div class="word-container">
                         <div class="word" id="frontWord">Word</div>
                         <button class="speak-btn" onclick="speakWord(event)" title="Listen to pronunciation">
