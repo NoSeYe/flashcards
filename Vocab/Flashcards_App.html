@@ -56,7 +56,22 @@
             border: 2px solid #ddd;
         }
         .back { transform: rotateY(180deg); background-color: #fff; }
-        .word { font-size: 2.5em; font-weight: bold; color: #333; margin-bottom: 10px; }
+        .word-container { display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px; }
+        .word { font-size: 2.5em; font-weight: bold; color: #333; }
+        .speak-btn { 
+            background: none; 
+            border: none; 
+            font-size: 1.5em; 
+            cursor: pointer; 
+            padding: 5px; 
+            border-radius: 50%; 
+            transition: background 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .speak-btn:hover { background-color: #eee; }
+        
         .level { font-size: 1.1em; color: #666; background: #eee; padding: 4px 12px; border-radius: 20px; margin-bottom: 10px; }
         .group { font-size: 0.9em; color: #888; font-style: italic; }
         .thai { font-size: 1.8em; color: #007bff; margin-bottom: 20px; font-weight: 500; }
@@ -124,7 +139,10 @@
             <div class="flashcard" id="card">
                 <div class="front">
                     <div class="mastery-badge">✅</div>
-                    <div class="word" id="frontWord">Word</div>
+                    <div class="word-container">
+                        <div class="word" id="frontWord">Word</div>
+                        <button class="speak-btn" onclick="speakWord(event)" title="Listen to pronunciation">🔊</button>
+                    </div>
                     <div class="level" id="frontLevel">Level: A1</div>
                     <div class="group" id="frontGroup">n.</div>
                 </div>
@@ -175,7 +193,7 @@
 
         function updateCard() {
             const cardData = words[currentIndex];
-            const wordKey = cardData.word + "_" + cardData.pos; // Unique enough
+            const wordKey = cardData.word + "_" + cardData.pos;
             
             document.getElementById('frontWord').textContent = cardData.word;
             document.getElementById('frontLevel').textContent = "Level: " + cardData.level;
@@ -236,6 +254,17 @@
             updateCard();
         }
 
+        function speakWord(event) {
+            event.stopPropagation(); // Don't flip the card when clicking the speaker
+            const cardData = words[currentIndex];
+            
+            // Web Speech API
+            const utterance = new SpeechSynthesisUtterance(cardData.word);
+            utterance.lang = 'en-US'; 
+            utterance.rate = 0.9; // Slightly slower for better clarity
+            window.speechSynthesis.speak(utterance);
+        }
+
         function exportProgress() {
             let report = "MASTERY_REPORT_V2_START\n";
             const pageStats = {};
@@ -265,6 +294,7 @@
             if (e.key === 'ArrowLeft') prevCard();
             if (e.key === 'ArrowUp' || e.key === 'ArrowDown') flipCard();
             if (e.key === 'Enter') markMastery(true);
+            if (e.key === 'v' || e.key === 'V') speakWord({stopPropagation: () => {}}); // Key 'V' for voice
         });
     </script>
 </body>
