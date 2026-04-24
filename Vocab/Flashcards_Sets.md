@@ -42,7 +42,7 @@
 | **addition**<br>Level: B1<br>Group: n. | **การเพิ่ม, ส่วนที่เพิ่มเข้ามา**<br>Example: In addition to his salary, he receives a monthly travel allowance. |
 | **additional**<br>Level: B2<br>Group: adj. | **เพิ่มเติม**<br>Example: The company decided to hire additional staff to handle the workload. |
 | **address**<br>Level: A1<br>Group: n. | **ที่อยู่**<br>Example: Please write your home address clearly on the application form. |
-| **adj. A1 ,**<br>Level: A2<br>Group: v. | **ปรับปรุง, ปรับเปลี่ยน**<br>Example: The mechanic had to adjust the car's engine to make it run smoothly. |
+| **adjust**<br>Level: A2<br>Group: v. | **ปรับปรุง, ปรับเปลี่ยน**<br>Example: The mechanic had to adjust the car's engine to make it run smoothly. |
 | **administration**<br>Level: B1<br>Group: n. | **การบริหาร, การจัดการ**<br>Example: The new administration promised to improve the city's public transport system. |
 | **admire**<br>Level: B1<br>Group: v. | **ชื่นชม**<br>Example: I really admire her dedication to helping underprivileged children. |
 | **admit**<br>Level: B1<br>Group: v. | **ยอมรับ (ความจริง), อนุญาตให้เข้า**<br>Example: He finally admitted that he had made a mistake in the report. |
