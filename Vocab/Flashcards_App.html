@@ -56,13 +56,23 @@
             border: 2px solid #ddd;
         }
         .back { transform: rotateY(180deg); background-color: #fff; }
-        .word-container { display: flex; align-items: center; justify-content: center; gap: 12px; margin-bottom: 10px; }
+        .word-container { 
+            position: relative;
+            display: flex; 
+            align-items: center; 
+            justify-content: center; 
+            width: 100%;
+            margin-bottom: 20px; 
+        }
         .word { font-size: 2.5em; font-weight: bold; color: #333; }
         .speak-btn { 
+            position: absolute;
+            bottom: -15px;
+            right: 0;
             background: none; 
             border: none; 
             cursor: pointer; 
-            padding: 8px; 
+            padding: 10px; 
             border-radius: 50%; 
             transition: all 0.2s;
             display: flex;
